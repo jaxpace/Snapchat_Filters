@@ -1,12 +1,18 @@
 # Snapchat Filter Final Project
 
-### Jetta -- Halo Filter
+### Commands
 
-### Jax -- Background Changing Filter
+###### In order to replicate our results open up the .ipynb files in Google Colab and run each code block.
 
-### Connor (Cads) -- Van Gogh Style Transfer Filter
+### Contributions
 
-### Tim -- Sunglasses Filter, Face Warping Filter, iOS App
+###### Jetta -- Halo Filter
+
+###### Jax -- Background Changing Filter
+
+###### Connor (Cads) -- Van Gogh Style Transfer Filter
+
+###### Tim -- Sunglasses Filter, Face Warping Filter, iOS App
 
 # Example Outputs
 
