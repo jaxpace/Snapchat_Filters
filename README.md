@@ -1,5 +1,11 @@
 # Snapchat_Filters
 
+Jetta -- Halo Filter
+Jax -- Background Changing Filter
+Connor (Cads) -- Van Gogh Style Transfer Filter
+Tim -- Sunglasses Filter, Face Warping Filter, iOS App
+
+
 Background Filter: 
 
 Ouput:  
