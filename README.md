@@ -1,6 +1,4 @@
-# Snapchat_Filters
-
-Tasks
+# Snapchat Filter Final Project
 
 ### Jetta -- Halo Filter
 
