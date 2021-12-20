@@ -2,17 +2,17 @@
 
 ### Commands
 
-##### In order to replicate our results open up the .ipynb files in Google Colab and run each code block.
+####### In order to replicate our results open up the .ipynb files in Google Colab and run each code block.
 
 ### Contributions
 
-##### Jetta -- Halo Filter
+####### Jetta -- Halo Filter
 
-##### Jax -- Background Changing Filter
+####### Jax -- Background Changing Filter
 
-##### Connor (Cads) -- Van Gogh Style Transfer Filter
+####### Connor (Cads) -- Van Gogh Style Transfer Filter
 
-##### Tim -- Sunglasses Filter, Face Warping Filter, iOS App
+####### Tim -- Sunglasses Filter, Face Warping Filter, iOS App
 
 # Example Outputs
 
