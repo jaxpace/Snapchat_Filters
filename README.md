@@ -2,7 +2,7 @@
 
 ## Commands
 
-#### In order to replicate our results open up the .ipynb files in Google Colab and run each code block.
+#### In order to replicate our results, select 'open in Google Colab' at the top of each file. You can then run each code block by pressing Shift + Enter.
 
 ## Contributions
 
