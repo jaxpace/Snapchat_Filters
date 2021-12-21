@@ -1,10 +1,10 @@
 # Snapchat Filter Final Project
 
-### Commands
+## Commands
 
 #### In order to replicate our results open up the .ipynb files in Google Colab and run each code block.
 
-### Contributions
+## Contributions
 
 #### Jetta -- Halo Filter
 
